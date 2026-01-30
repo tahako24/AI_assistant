@@ -1,16 +1,8 @@
-# Это пример Python скрипта.
+from core.wake_word import start_nova
 
-# Нажмите Shift+F10 для выполнения или замените его своим кодом.
-# Нажмите Двойное нажатие Shift для поиска везде: классы, файлы, окна инструментов, действия и настройки.
+def main():
+    print("AI assistant running in background ✅")
+    start_nova()
 
-
-def print_hi(name):
-    # Используйте точку останова в строке кода ниже для отладки скрипта.
-    print(f'Hi, {name}')  # Нажмите Ctrl+F8 для переключения точки останова.
-
-
-# Нажмите зеленую кнопку на полях для запуска скрипта.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# Справка PyCharm доступна на https://www.jetbrains.com/help/pycharm/
+if __name__ == "__main__":
+    main()
