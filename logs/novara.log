@@ -1,0 +1,209 @@
+2026-01-31 04:33:55,133 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 04:33:55,133 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 04:33:56,441 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 04:33:57,434 | INFO | Novara запущена (wake word)
+2026-01-31 04:33:57,455 | INFO | Tray запущен
+2026-01-31 04:33:58,143 | INFO | Используется микрофон index=1
+2026-01-31 04:34:00,737 | INFO | Выход из Novara
+2026-01-31 04:34:04,972 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 04:34:04,973 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 04:34:06,007 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 04:34:06,889 | INFO | Novara запущена (wake word)
+2026-01-31 04:34:06,900 | INFO | Tray запущен
+2026-01-31 04:34:07,212 | INFO | Используется микрофон index=1
+2026-01-31 04:34:12,930 | INFO | Открыт лог-файл
+2026-01-31 04:39:51,608 | INFO | Выход из Novara
+2026-01-31 04:39:53,514 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 04:39:53,514 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 04:39:54,663 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 04:39:55,557 | INFO | Novara запущена (wake word)
+2026-01-31 04:39:55,567 | INFO | Tray запущен
+2026-01-31 04:39:55,950 | INFO | Используется микрофон index=1
+2026-01-31 04:42:52,179 | INFO | Перезапуск Novara
+2026-01-31 04:42:52,786 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 04:42:52,786 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 04:42:53,834 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 04:42:54,714 | INFO | Novara запущена (wake word)
+2026-01-31 04:42:54,736 | INFO | Tray запущен
+2026-01-31 04:42:55,062 | INFO | Используется микрофон index=1
+2026-01-31 04:43:03,066 | INFO | Статус изменён: выключена
+2026-01-31 04:43:08,904 | INFO | Статус изменён: включена
+2026-01-31 04:43:16,820 | INFO | Wake word услышан
+2026-01-31 04:43:22,883 | INFO | Processing audio with duration 00:04.000
+2026-01-31 04:43:28,064 | INFO | Команда пользователя: что такое, пайтон?
+2026-01-31 04:52:13,618 | INFO | Перезапуск Novara
+2026-01-31 04:52:14,169 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 04:52:14,169 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 04:52:15,294 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 04:52:16,204 | INFO | Novara запущена (wake word)
+2026-01-31 04:52:16,214 | INFO | Tray запущен
+2026-01-31 04:52:16,530 | INFO | Используется микрофон index=1
+2026-01-31 04:52:50,625 | INFO | Статус изменён: выключена
+2026-01-31 04:52:54,152 | INFO | Статус изменён: включена
+2026-01-31 04:52:56,954 | INFO | Wake word услышан
+2026-01-31 04:53:02,980 | INFO | Processing audio with duration 00:04.000
+2026-01-31 04:53:08,048 | INFO | Команда пользователя: что такое, пайтон?
+2026-01-31 04:53:35,080 | INFO | Открыт лог-файл
+2026-01-31 04:54:08,127 | INFO | Открыт лог-файл
+2026-01-31 04:56:27,115 | INFO | Перезапуск Novara
+2026-01-31 04:56:27,747 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 04:56:27,747 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 04:56:28,917 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 04:56:29,837 | INFO | Novara запущена (wake word)
+2026-01-31 04:56:29,849 | INFO | Tray запущен
+2026-01-31 04:56:30,262 | INFO | Используется микрофон index=1
+2026-01-31 04:56:51,106 | INFO | Статус изменён: выключена
+2026-01-31 04:56:55,803 | INFO | Статус изменён: включена
+2026-01-31 04:57:01,367 | INFO | Wake word услышан
+2026-01-31 04:57:07,305 | INFO | Processing audio with duration 00:04.000
+2026-01-31 04:57:08,677 | INFO | Команда пользователя: что такое, байтон?
+2026-01-31 04:57:08,677 | INFO | Отправляю запрос в LLM
+2026-01-31 04:57:08,874 | INFO | Открыт лог-файл
+2026-01-31 04:57:11,416 | INFO | Ответ LLM получен (412 символов)
+2026-01-31 04:57:11,416 | INFO | Ответ LLM: Байтон - это термин, который используется в различных контекстах. В музыкальной сфере, байтон может означать музыкальный инструмент или ансамбль, играющий традиционную музыку в стиле байтон. В культур
+2026-01-31 04:57:11,587 | INFO | Popup вызван
+2026-01-31 04:57:27,226 | INFO | Открыт лог-файл
+2026-01-31 04:57:52,722 | INFO | Открыт лог-файл
+2026-01-31 04:59:59,046 | INFO | Перезапуск Novara
+2026-01-31 04:59:59,595 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 04:59:59,595 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 05:00:00,592 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 05:00:25,921 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 05:00:25,921 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 05:00:26,884 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 05:00:47,157 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 05:00:47,157 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 05:00:48,110 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 05:02:15,279 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 05:02:15,279 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 05:02:16,373 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 05:02:17,288 | INFO | Novara запущена (wake word)
+2026-01-31 05:02:17,299 | INFO | Tray запущен
+2026-01-31 05:02:17,736 | INFO | Используется микрофон index=1
+2026-01-31 05:02:29,480 | INFO | Wake word услышан
+2026-01-31 05:02:35,461 | INFO | Processing audio with duration 00:04.000
+2026-01-31 05:02:40,290 | INFO | Команда пользователя: что такое python
+2026-01-31 05:02:40,290 | INFO | Отправляю запрос в LLM
+2026-01-31 05:02:43,293 | INFO | Ответ LLM получен (448 символов)
+2026-01-31 05:02:43,293 | INFO | Ответ LLM: Python - это высокоуровневый язык программирования, который широко используется для разработки веб-приложений, научных вычислений, анализа данных, искусственного интеллекта и других областей. Python о
+2026-01-31 05:02:43,462 | INFO | Popup вызван
+2026-01-31 05:02:55,105 | INFO | Открыт лог-файл
+2026-01-31 05:04:40,570 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 05:04:40,570 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 05:04:41,680 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 05:04:42,756 | INFO | Novara запущена (wake word)
+2026-01-31 05:04:42,774 | INFO | Tray запущен
+2026-01-31 05:04:43,402 | INFO | Используется микрофон index=1
+2026-01-31 05:04:52,276 | INFO | Перезапуск Novara
+2026-01-31 05:04:52,881 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 05:04:52,882 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 05:04:53,823 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 05:04:54,638 | INFO | Novara запущена (wake word)
+2026-01-31 05:04:54,649 | INFO | Tray запущен
+2026-01-31 05:04:54,948 | INFO | Используется микрофон index=1
+2026-01-31 05:05:30,850 | INFO | Открыт лог-файл
+2026-01-31 05:05:49,713 | INFO | Перезапуск Novara
+2026-01-31 05:05:50,260 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 05:05:50,261 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 05:05:51,356 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 05:05:52,196 | INFO | Novara запущена (wake word)
+2026-01-31 05:05:52,207 | INFO | Tray запущен
+2026-01-31 05:05:52,528 | INFO | Используется микрофон index=1
+2026-01-31 05:06:20,650 | INFO | Статус изменён: выключена
+2026-01-31 05:06:24,809 | INFO | Статус изменён: включена
+2026-01-31 05:06:33,524 | INFO | Wake word услышан
+2026-01-31 05:06:39,597 | INFO | Processing audio with duration 00:04.000
+2026-01-31 05:06:44,596 | INFO | Команда пользователя: что такое python
+2026-01-31 05:06:44,596 | INFO | Отправляю запрос в LLM
+2026-01-31 05:06:47,382 | INFO | Ответ LLM получен (412 символов)
+2026-01-31 05:06:47,382 | INFO | Ответ LLM: Python - это высокоуровневый интерпретируемый язык программирования, который широко используется для разработки веб-приложений, научных вычислений, анализа данных, искусственного интеллекта и других о
+2026-01-31 05:06:47,555 | INFO | Popup вызван
+2026-01-31 05:06:58,249 | INFO | Открыт лог-файл
+2026-01-31 05:13:00,311 | INFO | Перезапуск Novara
+2026-01-31 05:13:00,842 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 05:13:00,842 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 05:13:01,944 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 05:13:24,178 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 05:13:24,179 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 05:13:25,114 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 05:14:19,256 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 05:14:19,256 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 05:14:20,448 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 05:14:21,326 | INFO | Novara запущена (wake word)
+2026-01-31 05:14:21,338 | INFO | Tray запущен
+2026-01-31 05:14:21,663 | INFO | Используется микрофон index=1
+2026-01-31 05:14:24,656 | INFO | Открыт лог-файл
+2026-01-31 05:14:50,668 | INFO | Перезапуск Novara
+2026-01-31 05:14:51,220 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 05:14:51,220 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 05:14:52,169 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 05:14:53,065 | INFO | Novara запущена (wake word)
+2026-01-31 05:14:53,076 | INFO | Tray запущен
+2026-01-31 05:14:53,406 | INFO | Используется микрофон index=1
+2026-01-31 05:15:28,268 | INFO | Открыт лог-файл
+2026-01-31 05:16:01,616 | INFO | Статус изменён: выключена
+2026-01-31 05:16:07,136 | INFO | Статус изменён: включена
+2026-01-31 05:16:31,334 | INFO | Wake word услышан
+2026-01-31 05:16:37,343 | INFO | Processing audio with duration 00:04.000
+2026-01-31 05:16:42,600 | INFO | Команда пользователя: что такое байден?
+2026-01-31 05:16:42,600 | INFO | Отправляю запрос в LLM
+2026-01-31 05:16:44,647 | INFO | Ответ LLM получен (189 символов)
+2026-01-31 05:16:44,647 | INFO | Ответ LLM: Байден - это фамилия американского политика Джо Байдена, который стал 46-м президентом США в январе 2021 года. Также это может относиться к его политической партии - Демократической партии.
+2026-01-31 05:16:44,815 | INFO | Popup вызван
+2026-01-31 05:21:00,936 | INFO | Перезапуск Novara
+2026-01-31 05:21:01,554 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 05:21:01,554 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 05:21:02,527 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 05:21:03,439 | INFO | Novara запущена (wake word)
+2026-01-31 05:21:03,454 | INFO | Tray запущен
+2026-01-31 05:21:04,128 | INFO | Используется микрофон index=1
+2026-01-31 05:21:08,992 | INFO | Перезапуск Novara
+2026-01-31 05:21:09,554 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 05:21:09,554 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 05:21:10,509 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 05:21:11,383 | INFO | Novara запущена (wake word)
+2026-01-31 05:21:11,395 | INFO | Tray запущен
+2026-01-31 05:21:11,692 | INFO | Используется микрофон index=1
+2026-01-31 05:21:15,583 | INFO | Открыт лог-файл
+2026-01-31 05:21:38,035 | INFO | Wake word услышан
+2026-01-31 05:21:44,118 | INFO | Processing audio with duration 00:04.000
+2026-01-31 05:21:49,273 | INFO | Команда пользователя: что такое байтон?
+2026-01-31 05:21:49,273 | INFO | Отправляю запрос в LLM
+2026-01-31 05:21:52,057 | INFO | Ответ LLM получен (381 символов)
+2026-01-31 05:21:52,057 | INFO | Ответ LLM: Байтон (Python) - это высокоуровневый язык программирования, который широко используется для разработки веб-приложений, научных вычислений, анализа данных, искусственного интеллекта и других областей.
+2026-01-31 05:21:52,622 | INFO | Popup вызван
+2026-01-31 05:23:24,107 | INFO | Перезапуск Novara
+2026-01-31 05:23:24,677 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 05:23:24,678 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 05:23:25,657 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 05:23:26,539 | INFO | Novara запущена (wake word)
+2026-01-31 05:23:26,551 | INFO | Tray запущен
+2026-01-31 05:23:26,879 | INFO | Используется микрофон index=1
+2026-01-31 05:23:33,477 | INFO | Wake word услышан
+2026-01-31 05:23:39,494 | INFO | Processing audio with duration 00:04.000
+2026-01-31 05:23:44,453 | INFO | Команда пользователя: вот такой пайден
+2026-01-31 05:23:44,453 | INFO | Отправляю запрос в LLM
+2026-01-31 05:23:46,335 | INFO | Ответ LLM получен (83 символов)
+2026-01-31 05:23:46,335 | INFO | Ответ LLM: Извините, но ваш запрос не является понятным. Можете уточнить, что вы имели в виду?
+2026-01-31 05:23:46,900 | INFO | Popup вызван
+2026-01-31 05:24:00,578 | INFO | Открыт лог-файл
+2026-01-31 05:24:30,657 | INFO | Открыт лог-файл
+2026-01-31 05:24:47,158 | INFO | Wake word услышан
+2026-01-31 05:24:51,572 | INFO | Processing audio with duration 00:04.000
+2026-01-31 05:24:55,744 | INFO | Команда пользователя: что такое байден?
+2026-01-31 05:24:55,744 | INFO | Отправляю запрос в LLM
+2026-01-31 05:24:56,200 | INFO | Перезапуск Novara
+2026-01-31 05:24:56,775 | INFO | Imported existing <module 'comtypes.gen' from 'C:\\Users\\epicl\\PycharmProjects\\AI_assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-31 05:24:56,775 | INFO | Using writeable comtypes cache directory: 'C:\Users\epicl\PycharmProjects\AI_assistant\.venv\Lib\site-packages\comtypes\gen'
+2026-01-31 05:24:57,752 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-01-31 05:24:58,651 | INFO | Novara запущена (wake word)
+2026-01-31 05:24:58,665 | INFO | Tray запущен
+2026-01-31 05:24:58,991 | INFO | Используется микрофон index=1
+2026-01-31 05:25:00,136 | INFO | Открыт лог-файл
+2026-01-31 05:25:36,918 | INFO | Wake word услышан
+2026-01-31 05:25:42,940 | INFO | Processing audio with duration 00:04.000
+2026-01-31 05:25:47,847 | INFO | Команда пользователя: кто ты?
+2026-01-31 05:25:47,847 | INFO | Отправляю запрос в LLM
+2026-01-31 05:25:49,568 | INFO | Ответ LLM получен (100 символов)
+2026-01-31 05:25:49,568 | INFO | Ответ LLM: Я - искусственный интеллект, созданный для помощи и общения с людьми. Как я могу помочь вам сегодня?
+2026-01-31 05:25:50,121 | INFO | Popup вызван

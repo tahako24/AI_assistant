@@ -3,10 +3,12 @@ import os
 import threading
 import time
 
+from ui.popup import show_popup
 from core.router import route
 from local_actions.system import handle_local
 from agents.api_client import ask_llm
 from utils.voice import listen, speak
+from ui.popup_manager import show_text
 
 
 def start_hotkeys():
@@ -53,6 +55,7 @@ def start_hotkeys():
                     try:
                         answer = ask_llm(text)
                         speak(answer)
+                        show_text(answer)
                     except Exception:
                         speak("Ошибка соединения")
 
